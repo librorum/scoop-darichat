@@ -4,7 +4,7 @@
 
 ```powershell
 scoop bucket add darichat https://github.com/librorum/scoop-darichat
-scoop install darichat/darichat
+scoop install darichat
 ```
 
 - 데스크톱 앱은 스스로 업데이트한다.
